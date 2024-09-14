@@ -1,0 +1,8 @@
+print("ALGORITHM FOR ODD or EVEN")
+print("STEP 1: Start")
+print("STEP 2: Read a Number n")
+print("STEP 3: Get remainder of n%2 and store in rem")
+print("STEP 4: Check is rem is equal to 0 (rem=0)")
+print("STEP 5: If rem is 0 then print EVEN")
+print("STEP 5: If rem is not 0 then print ODD")
+print("STOP")
